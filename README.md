@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elbesson
 - 👀 I’m interested in flutter, swift e javascript, typescript, NestJs, Angular
-- 🌱 I’m currently angular and typescript 
+- 🌱 I’m currently working on QA and Fullstack Developer 
 - 💞️ I’m looking to collaborate on NestJs
 - 📫 How to reach me ... elbessongazineu@gmail.com
 
