@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Elbesson Gazineu de Oliveira
 
-## 🧪 QA Specialist · Backend Developer · Automation Architect
+## 🧪 QA Specialist · Fullstack Developer · Automation Architect
+I'm a passionate Quality Assurance professional and fullstack developer with strong experience in software testing, automation strategies, and system reliability at scale.
 
-I'm a passionate Quality Assurance professional and backend developer with strong experience in software testing, automation strategies, and system reliability at scale.
-
-Currently, I lead QA initiatives at an international startup, where I design and implement backend automation frameworks, layered testing strategies, CI/CD pipelines, and detailed business rule documentation. I'm also proficient in backend development using JavaScript/TypeScript, with projects built on Node.js, NestJS, and Express.
+Currently, I lead QA initiatives at an international startup, where I design and implement backend automation frameworks, layered testing strategies, CI/CD pipelines, and detailed business rule documentation. Alongside that, I build modern applications as a fullstack developer using JavaScript/TypeScript, Node.js, NestJS, Express, React, and Next.js.
 
 I'm open to new opportunities abroad (remote or on-site) and always looking for ways to combine quality, speed, and scalability in modern software development.
 
